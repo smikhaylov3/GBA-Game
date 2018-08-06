@@ -6,6 +6,8 @@ hitting a mine once will make it yellow, hitting another will make it red. The n
 end the game and display your score = number of mines avoided.
 The trick for this tunning smoothly is using DMA to quickly draw repeating assets instead of wasting processor power drawing pixels individually.
 
+There is a gameplay demo video available here -> https://youtu.be/G8EmlH17Bww
+
 The Title Screen
 
 ![ScreenShot](TankAssaultTitle.png)
