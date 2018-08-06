@@ -7,7 +7,9 @@ The trick for this running smoothly is using DMA to quickly draw repeating asset
 
 The game can be played by:
 First: Downloading the TankAssault.gba rom image from this repo.
+
 Second: Downloading any opensource GameBoy Advanced emulator.
+
 Third: Just load the TankAssault.gba rom into your emulator and enjoy.
 
 OR burn the TankAssault.gba rom onto an actual GBA cartridge and play on a real GBA. You might have to ask Nintendo nicely, in this case.
