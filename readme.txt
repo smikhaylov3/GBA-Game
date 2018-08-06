@@ -8,8 +8,8 @@ The trick for this tunning smoothly is using DMA to quickly draw repeating asset
 
 The Title Screen
 
-![alttext] (https://raw.githubusercontent.com/smikhaylov3/GBA-Game/master/TankAssaultTitle.png)
+![alt text](https://raw.githubusercontent.com/smikhaylov3/GBA-Game/master/TankAssaultTitle.png)
 
 A gameplay screen shot, through an emulator.
 
-![alt text] (https://raw.githubusercontent.com/smikhaylov3/GBA-Game/master/TankAssaultGamePlay.png)
+![alt text](https://raw.githubusercontent.com/smikhaylov3/GBA-Game/master/TankAssaultGamePlay.png)
