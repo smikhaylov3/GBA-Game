@@ -4,3 +4,14 @@ You have three lives, shown by the colored square in the upper right corner. It 
 hitting a mine once will make it yellow, hitting another will make it red. The next collision will
 end the game and display your score = number of mines avoided.
 The trick for this tunning smoothly is using DMA to quickly draw repeating assets instead of wasting processor power drawing pixels individually.
+
+Here are some screenshots and a gameplay demonstartion.
+There is a gameplay demo video on YouTube: https://www.youtube.com/watch?v=G8EmlH17Bww>
+
+The Title Screen
+
+![ScreenShot](TankAssaultTitle.png)
+
+A gameplay screenshot, taken through a GBA emulator.
+
+![ScreenShot](TankAssaultGamePlay.png)
